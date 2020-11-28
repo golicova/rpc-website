@@ -1,2 +1,2 @@
 # rpc-website
-![Screenshot](screenshot.png)
+![Screenshot](images/screenshot.png)
